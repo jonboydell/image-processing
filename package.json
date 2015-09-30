@@ -1,0 +1,8 @@
+{
+  "name": "imagemagicktest",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "gm": "1.18.1"
+    }
+}
